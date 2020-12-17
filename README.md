@@ -2,7 +2,9 @@
 My first time using Flask to create a web application. The routing was straightforward and I enjoyed the provided templating engine (Jinja).
 
 
-![alt text](https://github.com/tmalamut/StudyPoint/blob/main/previewimgs/img1.png?raw=true)
+![preview-1](https://github.com/tmalamut/StudyPoint/blob/main/previewimgs/img1.png?raw=true)
+![preview-2](https://github.com/tmalamut/StudyPoint/blob/main/previewimgs/img2.png?raw=true)
+![preview-3](https://github.com/tmalamut/StudyPoint/blob/main/previewimgs/img3.png?raw=true)
 
 ## Live Demo
 http://studypoint-taylor.herokuapp.com/
