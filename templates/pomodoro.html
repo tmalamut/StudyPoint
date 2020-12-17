@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>StudyPoint - Pomodoro Timer</title>
+{% endblock %}
+
+{% block body %}
+<p><a href="/">Back To Task List</a></p>
+<h1>Pomodoro Timer</h1>
+<div class="pomodoro">
+    
+    <div id="productive-timer" class="timer">
+        &nbsp; &nbsp;<p id="productive" class="label">Productive:</p> &nbsp; <p id="p_min">25</p><p>:</p><p id="p_sec">00</p>
+    </div>
+
+    <div id="break-timer" class="timer">
+        &nbsp;<p id="break" class="label">Break:</p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p id="b_min">5</p><p>:</p><p id="b_sec">00</p>
+    </div>
+    <button id="start" class="btn">Start</button>
+    <button id="pause" class="btn">Pause</button>
+    <button id="reset" class="btn">Reset</button>
+</div>
+{% endblock %}
