@@ -1,6 +1,6 @@
 # StudyPoint
 My first time using Flask to create a web application. The routing was straightforward and I enjoyed the provided templating engine (Jinja).
-![preview-1](https://github.com/tmalamut/[StudyPoint]/tree/main/previewimgs/img1.png?raw=true)
+
 
 
 ## Live Demo
